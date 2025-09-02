@@ -4,7 +4,7 @@
     <title>Google Form Embed Example</title>
 </head>
 <body>
-    <h2>Please fill out this form:</h2>
+    <h2>Please fill this form:</h2>
 
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfG_example_form_link/viewform?embedded=true"
             width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">
